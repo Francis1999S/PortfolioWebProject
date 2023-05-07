@@ -1,0 +1,23 @@
+.row{
+    padding: 25px;
+}
+div{
+    background-color: rgb(73, 73, 73);
+    text-align: left;
+}
+#Nombre{
+    font-weight: bold;
+    color: white
+}
+#Titulo{
+    color: white
+}
+#AcercaDeMi{
+    color: white
+}
+#Descripcion{
+    color: white;
+}
+#Perfil{
+    border-radius: 50%;
+}

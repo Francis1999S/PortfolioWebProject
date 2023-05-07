@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { MiComponente } from './components/mi-componente/mi-componente.component';
 import { HeaderComponent } from './components/Header/header/header.component';
 import { LogoAPComponent } from './src/app/components/logo-ap/logo-ap.component';
+import { SocialComponent } from './components/social/social.component';
 
 
 @NgModule({
@@ -13,7 +14,8 @@ import { LogoAPComponent } from './src/app/components/logo-ap/logo-ap.component'
     AppComponent,
     MiComponente,
     HeaderComponent,
-    LogoAPComponent
+    LogoAPComponent,
+    SocialComponent
   ],
   imports: [
     BrowserModule

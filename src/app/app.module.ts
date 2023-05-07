@@ -5,13 +5,15 @@ import { AppComponent } from './app.component';
 
 import { MiComponente } from './components/mi-componente/mi-componente.component';
 import { HeaderComponent } from './components/Header/header/header.component';
+import { LogoAPComponent } from './src/app/components/logo-ap/logo-ap.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     MiComponente,
-    HeaderComponent
+    HeaderComponent,
+    LogoAPComponent
   ],
   imports: [
     BrowserModule
